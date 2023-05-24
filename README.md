@@ -1,1 +1,1 @@
- <a href=" https://midhlajrahman.github.io/photofolio/">PhotoFolio</a>
+ <a href="https://midhlajrahman.github.io/photofolio/">PhotoFolio</a>
