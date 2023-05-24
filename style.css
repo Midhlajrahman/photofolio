@@ -7,7 +7,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
-    padding-right: 160px !important;
+    /* padding-right: 160px !important; */
     justify-content: center !important;
     align-items: center !important;
 
